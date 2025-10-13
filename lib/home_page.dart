@@ -32,6 +32,11 @@ class _MyHomePageState extends State<MyHomePage> {
           if (!mounted) {
             return;
           }
+          // Start the image frame from the camera
+          controller.startImageStream((image) {
+            // Handle the image frame here
+            debugPrint("${image.width} ${image.height}");
+          });
           // Update the state to reflect the changes.
           setState(() {});
         })
