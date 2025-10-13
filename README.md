@@ -1,14 +1,15 @@
 # Live Footage App Maching Learn
 
+An App to display real time images
 
 ## ✨ Features
-- Multiple image selection
-- Drag & drop support
-- Image preview and cropping
-- Cross-platform compatibility
-- Customizable themes
+- Display Live Camera Footage
+- Getting Frames of camera
 
 ## 🚀 Quick Start
+
+# Package installed:
+- **Camera:** A Flutter plugin for iOS, Android and Web allowing access to the device cameras.
 
 
 
