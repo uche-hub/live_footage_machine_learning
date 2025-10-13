@@ -8,6 +8,10 @@ An App to display real time images
 
 ## 🚀 Quick Start
 
+**We Ensure that plugin services are initialized then Obtain a list of the available cameras on the device (Check main.dart).**
+
+# Displayed Camera Preview
+
 # Package installed:
 - **Camera:** A Flutter plugin for iOS, Android and Web allowing access to the device cameras.
 
