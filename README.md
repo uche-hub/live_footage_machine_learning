@@ -11,6 +11,10 @@ An App to display real time images
 # Package installed:
 - **Camera:** A Flutter plugin for iOS, Android and Web allowing access to the device cameras.
 
+# Core changes:
+- **Added IOS Camera Permissions**: NSCameraUsageDescription and NSMicrophoneUsageDescription
+-**Change Android MinSDK**: change to 21
+
 
 
 ### Installation
